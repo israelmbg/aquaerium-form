@@ -1,6 +1,6 @@
 # A Simple Login page 
 
-<img src="./.github/home.gif">
+<p align="center"><img src=".github/home.gif?raw=true"/></p>
 
 ## Only HTML CSS and JS
 
